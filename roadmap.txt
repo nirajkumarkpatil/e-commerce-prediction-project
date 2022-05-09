@@ -1,0 +1,19 @@
+Road Map to e-commerce problem
+1.Create virtual enviorement
+2.install the all library we need
+3.get the reqierement text
+4.read and understand the problem statement
+5.basic aproch is to ‘how muct sale individual customer can bear on the basis of discounts , age and income ’.
+6.We concate the two table on the basis of primary key and foregn key(household_key)
+7.import the data in formate of csv file
+8.understand the parameter related to the data like (data type, independent and dependent attribute,    dimensions, correlation )
+9.used the feature engg. For the data clensing
+(null values, outliers, scalling, one hot encoder)
+10.fit the train test split model
+10. we comfirm  whether the model follows multicollinearity or not.
+11. fit the linear regression
+12.use pickle for dump model
+13. make static folder for csv file
+14. make templates folder for the html
+15. make the txt.requirement file
+16.upload the files on the github
